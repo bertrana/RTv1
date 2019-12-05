@@ -1,0 +1,4 @@
+CAM: 0,0,0 0,0,0
+SPHERE: 0,0,0 0,0,0 ffffff 3 -1
+POINT: 0,0,0 500
+AMBIENT: 0,0,0 0

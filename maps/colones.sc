@@ -1,0 +1,27 @@
+CAM: 0,3,-25 -5,0,0
+
+PLANE: 0,0,25 90,0,0 0000ff 0 200
+PLANE: 0,-5,0 0,90,0 bbbbbb 0 200
+PLANE: 0,15,0 0,90,0 bbbbbb 0 200
+
+SPHERE: -9,15,-10 0,0,0 dddddd 4 200
+CYLINDER: -9,15,-10 0,0,0 dddddd 2 200
+SPHERE: -9,-5,-10 0,0,0 dddddd 4 200
+
+SPHERE: 9,15,-10 0,0,0 dddddd 4 200
+CYLINDER: 9,15,-10 0,0,0 dddddd 2 200
+SPHERE: 9,-5,-10 0,0,0 dddddd 4 200
+
+SPHERE: -9,15,10 0,0,0 dddddd 4 200
+CYLINDER: -9,15,10 0,0,0 dddddd 2 200
+SPHERE: -9,-5,10 0,0,0 dddddd 4 200
+
+SPHERE: 9,15,10 0,0,0 dddddd 4 200
+CYLINDER: 9,15,10 0,0,0 dddddd 2 200
+SPHERE: 9,-5,10 0,0,0 dddddd 4 200
+
+SPHERE: 0,-2,-9 0,0,0 ff0000 2 200
+
+POINT: -18,14,-25 420
+POINT: 18,14,-25 420
+AMBIENT: 0,0,0 100
